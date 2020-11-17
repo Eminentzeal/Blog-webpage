@@ -14,7 +14,7 @@ async function getData() {
 
   posts.forEach(post => {
     i++;
-    if(i <= 10) {
+    if(i = 12) {
       const title = post.title;
       const body = post.body;
       const hobbies = post.hobbies
