@@ -2,59 +2,73 @@
   {
     "id": 1,
     "title": "Mrs Chioma",
-    "body": "If you have that in you
-    If you believe in yourself,
-    You can achieve the highest peak of success in life,
-    Self belief plays the basis of success,
-    It makes you, who you are,
-    It takes you to the star
-    Strive hard and you will get what you desire,
-    Just reach higher and higher!",
-    "hobbies": "teaching"
+    "text": "If you have that in you",
+    "body": "If you have that in youIf you believe in yourself, You can achieve the highest peak of success in life, Self belief plays the basis of success, It makes you, who you are, It takes you to the star Strive hard and you will get what you desire, Just reach higher and higher!"
   },
   {
     "id": 2,
     "title": "Esther",
-    "body": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla"
+    "text": "It comes so easy",
+    "body": "Success comes easy to those who will, The task seems far Too far the uphill, But, if the spirit is there, Anything can be achieved Whether it is easy or rear Keep the hope alive And, you will find your way With some strive!"
   },
   {
     "id": 3,
     "title": "Chiagoziem",
-    "body": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut"
+    "text": "It is not forever in life",
+    "body": " Success is not permanent in life, But, the path of achieving success is important, You learn something from it It changes you to bit, Success may come or may go, But, it will always show You the true colors of life All the best for your future!"
   },
   {
     "id": 4,
     "title": "Eric",
+    "text": "If you have that in you",
     "body": "ullam et saepe reiciendis voluptatem adipisci\nsit amet autem assumenda provident rerum culpa\nquis hic commodi nesciunt rem tenetur doloremque ipsam iure\nquis sunt voluptatem rerum illo velit"
   },
   {
     "id": 5,
     "title": "Auwal",
+    "text": "If you have that in you",
     "body": "repudiandae veniam quaerat sunt sed\nalias aut fugiat sit autem sed est\nvoluptatem omnis possimus esse voluptatibus quis\nest aut tenetur dolor neque"
   },
   {
     "id": 6,
     "title": "Oluwafunmilola",
-    "body": "ut aspernatur corporis harum nihil quis provident sequi\nmollitia nobis aliquid molestiae\nperspiciatis et ea nemo ab reprehenderit accusantium quas\nvoluptate dolores velit et doloremque molestiae"
+    "text": "Its share of ups and downs",
+    "body": "Success has its share of ups and downs in life, But amidst all the struggle and strive, It makes you what you want to be. It gives you many things to see. Real success comes with being content, You know the worth of each penny spent, All the best for your endeavors!"
   },
   {
     "id": 7,
     "title": "Oluwafunke",
+    "text": "If you have that in you",
     "body": "dolore placeat quibusdam ea quo vitae\nmagni quis enim qui quis quo nemo aut saepe\nquidem repellat excepturi ut quia\nsunt ut sequi eos ea sed quas"
   },
   {
     "id": 8,
     "title": "Favour",
+    "text": "If you have that in you",
     "body": "dignissimos aperiam dolorem qui eum\nfacilis quibusdam animi sint suscipit qui sint possimus cum\nquaerat magni maiores excepturi\nipsam ut commodi dolor voluptatum modi aut vitae"
   },
   {
     "id": 9,
     "title": "Grace",
+    "text": "If you have that in you",
     "body": "consectetur animi nesciunt iure dolore\nenim quia ad\nveniam autem ut quam aut nobis\net est aut quod aut provident voluptas autem voluptas"
   },
   {
     "id": 10,
     "title": "Ezekiel",
+    "text": "If you have that in you",
+    "body": "quo et expedita modi cum officia vel magni\ndoloribus qui repudiandae\nvero nisi sit\nquos veniam quod sed accusamus veritatis error"
+  },
+  {
+    "id": 11,
+    "title": "Tomisin",
+    "text": "If you have that in you",
+    "body": "quo et expedita modi cum officia vel magni\ndoloribus qui repudiandae\nvero nisi sit\nquos veniam quod sed accusamus veritatis error"
+  },
+  {
+    "id": 10,
+    "title": "Arike",
+    "text": "If you have that in you",
     "body": "quo et expedita modi cum officia vel magni\ndoloribus qui repudiandae\nvero nisi sit\nquos veniam quod sed accusamus veritatis error"
   }
   ]
