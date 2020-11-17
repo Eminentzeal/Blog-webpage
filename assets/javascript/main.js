@@ -17,7 +17,7 @@ async function getData() {
     if(i = 12) {
       const title = post.title;
       const body = post.body;
-      const hobbies = post.hobbies
+      const heading = post.heading
 
       fetch('https://unsplash.it/300/200')
         .then(res => res.blob())
@@ -26,7 +26,7 @@ async function getData() {
           const postTitle = newPost.querySelector('.post__title');
           const postBody = newPost.querySelector('.post__body');
           const postImg = newPost.querySelector('.post__img');
-          const postHobbies = newPost.querySelector('.post__hobbies');
+          const postHeading = newPost.querySelector('.post__heading');
 
 
           // throw 'Image Fetch Error';
@@ -34,7 +34,7 @@ async function getData() {
           postImg.src = URL.createObjectURL(blob);
           postTitle.innerText = title;
           postBody.innerText = body;
-          postHobbies.innerText = hobbies;
+          postheading.innerText = heading;
           postSection.appendChild(newPost);
         })
         .catch(err => console.error(err));
