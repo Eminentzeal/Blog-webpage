@@ -5,7 +5,7 @@ getData()
   .catch(err => console.error(err));
 
 async function getData() {
-  const postStream = await fetch('/assets/json/info.json');
+  const postStream = await fetch('https://raw.githubusercontent.com/Eminentzeal/info/main/db.json');
   const posts = await postStream.json();
   let i = 0;
 
@@ -17,7 +17,7 @@ async function getData() {
     if(i = 12) {
       const title = post.title;
       const body = post.body;
-      const heading = post.heading
+      const heading = post.heading;
 
       fetch('https://unsplash.it/300/200')
         .then(res => res.blob())
@@ -34,7 +34,7 @@ async function getData() {
           postImg.src = URL.createObjectURL(blob);
           postTitle.innerText = title;
           postBody.innerText = body;
-          postheading.innerText = heading;
+          postHeading.innerText = heading;
           postSection.appendChild(newPost);
         })
         .catch(err => console.error(err));
