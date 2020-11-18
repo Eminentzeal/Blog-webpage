@@ -36,7 +36,7 @@ This project is about fetching data from an API
     * https://www.linkedin.com/company/michub/
 
 ## Live Demo
-[See project live here] (https://raw.githack.com/Eminentzeal/modal_assignment/main/index.html)
+[See project live here] (https://raw.githack.com/Eminentzeal/info.json/main/index.html)
 
 
 ## Poem Source
