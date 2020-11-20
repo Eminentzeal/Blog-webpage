@@ -1,7 +1,7 @@
 # info.json
 
 ## About The Project
-This project is about fetching data from an API
+This project is about how to fetch data from an API JavaScript Object Notation (JSON) using the fetch, await, and the async method simultaneously. Images are also fetched using the Binart Large OBject (BLOB).
 
 ## Image
 ![landing page.](landing.png "This is the welcome interface")
