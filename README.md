@@ -35,10 +35,10 @@ This project is about how to fetch data from an API JavaScript Object Notation (
 [Click Here to see project live](https://eminentezekiel-info-json.netlify.app/)
 
 ## Poem Source
-http://www.wishafriend.com/poems/success-poems.php
+[Wishafriend](http://www.wishafriend.com/poems/success-poems.php)
 
 ## Image Source
-'https://unsplash.it/300/200
+[Unsplash](https://unsplash.it/300/200)
 
 ## 🤝 Contributions
 * This project is open to your comments and contributions, kindly reach the author through the above author's social media handles.
