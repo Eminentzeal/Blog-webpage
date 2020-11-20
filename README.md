@@ -32,8 +32,7 @@ This project is about fetching data from an API
   * https://www.linkedin.com/company/michub/
 
 ## Live Demo
-[See project live here] (https://raw.githack.com/Eminentzeal/info.json/main/index.html)
-
+[Click Here to see project live](https://eminentezekiel-info-json.netlify.app/)
 
 ## Poem Source
 http://www.wishafriend.com/poems/success-poems.php
