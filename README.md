@@ -42,3 +42,6 @@ http://www.wishafriend.com/poems/success-poems.php
 
 ## 🤝 Contributions
 * This project is open to your comments and contributions, kindly reach the author through the above author's social media handles.
+
+#
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c7edd095-037f-4f9c-9545-e9ae90ad29bb/deploy-status)](https://app.netlify.com/sites/eminentezekiel-info-json/deploys)
