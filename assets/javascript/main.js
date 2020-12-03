@@ -5,7 +5,7 @@ getData()
   .catch(err => console.error(err));
 
 async function getData() {
-  const postStream = await fetch('/assets/json/info.json');
+  const postStream = await fetch('https://raw.githubusercontent.com/Eminentzeal/info/main/db.json');
   const posts = await postStream.json();
   let i = 0;
 
