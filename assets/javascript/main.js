@@ -5,9 +5,11 @@ getData()
   .catch(err => console.error(err));
 
 async function getData() {
-  const postStream = await fetch('https://raw.githubusercontent.com/Eminentzeal/info/main/db.json');
+  const postStream = await fetch('assets/json/info.json');
   const posts = await postStream.json();
   let i = 0;
+
+  // https://raw.githubusercontent.com/Eminentzeal/info/main/db.json
 
   // throw 'Get Data Error';
   // console.log(posts);
@@ -19,7 +21,7 @@ async function getData() {
       const body = post.body;
       const heading = post.heading;
 
-      fetch('/assets/images/nature.jpg')
+      fetch('assets/images/nature.jpg')
         .then(res => res.blob())
         .then(blob => {
           const newPost = document.importNode(postTemplate.content, true);
